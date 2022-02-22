@@ -1,0 +1,21 @@
+$Recycle.Bin
+$WinREAgent
+adobeTemp
+cygwin64
+Docker
+Documents and Settings
+Intel
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+sql
+SQL2019
+System Volume Information
+Test
+Users
+vaccum
+VS2017
+Windows
+Windows.old

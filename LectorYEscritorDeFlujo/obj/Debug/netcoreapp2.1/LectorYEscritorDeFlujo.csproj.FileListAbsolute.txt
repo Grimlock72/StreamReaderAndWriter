@@ -1,0 +1,10 @@
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\bin\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.deps.json
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\bin\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.runtimeconfig.json
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\bin\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.runtimeconfig.dev.json
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\bin\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.dll
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\bin\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.pdb
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\obj\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.csproj.CoreCompileInputs.cache
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\obj\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.AssemblyInfoInputs.cache
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\obj\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.AssemblyInfo.cs
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\obj\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.dll
+C:\VS2017\LectorYEscritorDeFlujo\LectorYEscritorDeFlujo\obj\Debug\netcoreapp2.1\LectorYEscritorDeFlujo.pdb
